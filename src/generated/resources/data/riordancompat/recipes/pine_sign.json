@@ -1,0 +1,22 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "key": {
+    "P": {
+      "item": "riordancompat:pine_planks"
+    },
+    "S": {
+      "item": "minecraft:stick"
+    }
+  },
+  "pattern": [
+    "PPP",
+    "PPP",
+    " S "
+  ],
+  "result": {
+    "count": 3,
+    "item": "riordancompat:pine_sign"
+  },
+  "show_notification": true
+}

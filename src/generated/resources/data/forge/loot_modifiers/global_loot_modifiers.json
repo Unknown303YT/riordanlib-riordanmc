@@ -1,0 +1,13 @@
+{
+  "entries": [
+    "riordancompat:fabric_from_shipwreck",
+    "riordancompat:fabric_from_village_plains_house",
+    "riordancompat:fabric_from_village_desert_house",
+    "riordancompat:fabric_from_village_snowy_house",
+    "riordancompat:fabric_from_buried_treasure",
+    "riordancompat:fabric_from_dungeon",
+    "riordancompat:fabric_from_village_savanna_house",
+    "riordancompat:fabric_from_village_taiga_house"
+  ],
+  "replace": false
+}

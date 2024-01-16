@@ -1,0 +1,4 @@
+// 1.20.1	2024-01-15T14:09:43.71523	Registries
+5c2c1158cd27af318eedd5ec465aad7e534b4c72 data/riordancompat/forge/biome_modifier/add_pine_tree.json
+cbd377c6351385c01c70e66215b41bb4897fcf4d data/riordancompat/worldgen/configured_feature/pine_tree.json
+ccef4e2dcd53cc6e7c580f68843b9b1effe8857f data/riordancompat/worldgen/placed_feature/pine_tree_placed.json

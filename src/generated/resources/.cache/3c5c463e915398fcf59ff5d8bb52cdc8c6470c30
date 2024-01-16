@@ -1,0 +1,4 @@
+// 1.20.1	2024-01-15T14:09:43.7062324	Tags for minecraft:block mod id riordancompat
+3360aecdb39ccdf8b70289d5b3cda80e1cc39ec6 data/minecraft/tags/blocks/logs_that_burn.json
+508d3559917f0e00e429a1da4f8baf5cdbc634b7 data/minecraft/tags/blocks/planks.json
+bf945cb8415a3a1713794372852287b25a053300 data/riordancompat/tags/blocks/pine_blocks.json

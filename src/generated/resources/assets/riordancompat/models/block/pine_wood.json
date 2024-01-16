@@ -1,0 +1,7 @@
+{
+  "parent": "minecraft:block/cube_column",
+  "textures": {
+    "end": "riordancompat:block/pine_log",
+    "side": "riordancompat:block/pine_log"
+  }
+}

@@ -1,0 +1,20 @@
+{
+  "creativetab.riordancompat.riordan_tab": "RiordanMC: Core",
+
+  "item.riordancompat.fabric": "Fabric",
+
+  "item.riordancompat.pinecone": "Pinecone",
+  "block.riordancompat.pine_log": "Pine Log",
+  "block.riordancompat.pine_wood": "Pine Wood",
+  "block.riordancompat.pine_planks": "Pine Planks",
+  "block.riordancompat.stripped_pine_log": "Stripped Pine Log",
+  "block.riordancompat.stripped_pine_wood": "Stripped Pine Wood",
+  "block.riordancompat.pine_leaves": "Pine Leaves",
+  "block.riordancompat.pine_sapling": "Pine Sapling",
+  "block.riordancompat.pine_sign": "Pine Sign",
+  "block.riordancompat.pine_hanging_sign": "Pine Hanging Sign",
+  "item.riordancompat.pine_boat": "Pine Boat",
+  "item.riordancompat.pine_chest_boat": "Pine Chest Boat",
+
+  "entity.riordancompat.mod_chest_boat": "Boat with Chest"
+}

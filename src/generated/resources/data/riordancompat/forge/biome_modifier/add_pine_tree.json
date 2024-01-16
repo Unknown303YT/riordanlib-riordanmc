@@ -1,0 +1,6 @@
+{
+  "type": "forge:add_features",
+  "biomes": "#riordancompat:pine_spawnable",
+  "features": "riordancompat:pine_tree_placed",
+  "step": "vegetal_decoration"
+}

@@ -1,0 +1,22 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "key": {
+    "C": {
+      "item": "minecraft:chain"
+    },
+    "S": {
+      "item": "riordancompat:stripped_pine_log"
+    }
+  },
+  "pattern": [
+    "C C",
+    "SSS",
+    "SSS"
+  ],
+  "result": {
+    "count": 6,
+    "item": "riordancompat:pine_hanging_sign"
+  },
+  "show_notification": true
+}
